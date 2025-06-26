@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+}
+#container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  background-color: brown;
+}
+#left-section {
+  padding: 150px 20px 20px 150px;
+  width: 50%;
+  height: 100vh;
+}
+#right-section {
+  padding: 150px 20px 20px 150px;
+  width: 50%;
+  height: 100vh;
+}
